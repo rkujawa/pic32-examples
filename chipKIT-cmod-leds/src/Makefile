@@ -1,7 +1,7 @@
 # You need to set the five variables below correctly for your system and chipKIT board.
 
 # Path to chipKIT C compiler
-TOOLCHAIN_PREFIX=/Applications/mpide.app/Contents/Resources/Java/hardware/pic32/compiler/pic32-tools
+TOOLCHAIN_PREFIX=/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/compiler/pic32-tools
 # Path to chipKIT avrdude
 AVRTOOLS_PREFIX=/Applications/Mpide.app/Contents/Resources/Java/hardware/tools/avr/
 # Serial port used to upload image with avrdude
